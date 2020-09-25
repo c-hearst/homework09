@@ -17,21 +17,25 @@
 
 ## Description 
     This is a README Generator! Users can create professional README.md files for their web applications simply by answering command line prompts made possible by use of Inquirer. In fact, this application was used to create its own README!
-
+    
+    README.md files generated using this application will be produced in the same format as this file -- having a strong README is important in communicating the usage and functionality of web applications.
+    
 ## Installation
-    npm install
+    Run npm install to ensure the requisite package will be installed, which is needed in order to use the application properly.
 
 ## Usage 
-    Please run 
+    Please run the following in your command line to begin the prompts: node index.js
+    
+    After running the application, answer the prompts and finalize your answer with the ENTER key. For the License selection prompt, navigate your options by using the UP or DOWN arrow keys and hitting ENTER on the desired option.
 
 ## License 
     A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 ## Contributing
-    None!
+    
 
 ## Test 
-    Run npm run test
+    
 
 ## Questions 
-    If you have questions you can reach me at carterhearst@gmail.com or visit my [Github Profile](https://github.com/c-hearst)
+    If you have questions you can reach me at carterhearst@gmail.com or visit my github profile at https://github.com/c-hearst
